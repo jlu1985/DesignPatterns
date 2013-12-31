@@ -3,7 +3,7 @@
   <groupId>org.myorg</groupId>
   <artifactId>DesignPattern</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Jia Lu</name>
+  <name>DesignPattern</name>
 	<description>This project contains various design pattern implementations</description>
 	<build>
 		<plugins>
