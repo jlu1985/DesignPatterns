@@ -1,4 +1,4 @@
-package org.myorg.patterns.builder;
+package jl.patterns.builder;
 
 /**
  * <b>the Builder pattern is a good choice when designing classes whose

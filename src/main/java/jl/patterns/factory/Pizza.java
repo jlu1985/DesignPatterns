@@ -1,4 +1,4 @@
-package org.myorg.patterns.factory;
+package jl.patterns.factory;
 
 import java.util.ArrayList;
 
